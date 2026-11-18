@@ -1,4 +1,4 @@
-# VVS-komponentindeks
+# Komponentindeks
 
 | Produsent | Modell | Type | Utførelse | Nm | Protokoller / IO |
 |---|---|---|---|---|---|
